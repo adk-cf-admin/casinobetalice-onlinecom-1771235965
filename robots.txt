@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinobetalice-online.com/
+Sitemap: https://casinobetalice-online.com/sitemap.xml
